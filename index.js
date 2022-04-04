@@ -39,7 +39,7 @@ const questions = [{
       message: "What license do you want to use?",
       choices: [
         "MIT",
-        "Apache",
+        "Apache-2.0",
         "none"
     ],
 },
@@ -54,7 +54,7 @@ const questions = [{
 {
     type: "input",
         name: "test",
-        message: "What test do you have and how can you use them?"
+        message: "Does your applications have tests? Please provide an example on how to run them here."
 },
 // email 
 {
@@ -77,8 +77,7 @@ function init() {
         .prompt(questions)
         .then((answers) => {
             console.log(answers)
-            var readme = generateMarkdown(answers)
-            console.log(readme)
+            var readme = generateMarkdown(answers)            
             writeToFile("Readme.md", readme)
         })
 }

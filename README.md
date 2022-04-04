@@ -1,26 +1,28 @@
-# My Readme
+# My Readme Generator 
 ## Description 
-A project to help make it easier to create a readme. 
+fjalsjflasjeoejf
 
 ## Table of Contents
 - [Installation](#installation)
-## Installation
-go to github and clone the repo. Then follow the prompts. 
 - [UserName](#username)
-## Github Username
-Bluebear1701
 - [License](#license)
+- [Contributions](#contributions)
+- [Test](#test) 
+- [email](#email)
+
+## Installation
+Go to Github and clone repo. Follow prompts
+## Github Username
+Bluebear1701 
 ## License
 MIT
-- [Contributions](#contributions)
 ## Contributions
-Go to github and fork the repo. Once your changes are done push to main. After review we will incorporate those suggestions that help with our vision. 
-- [Test](#test) 
+dldkf;lsndfpsdfn
 ## Test 
-none
-- [email](#email)
+lseoflse
 ## Email 
 monkey1701@hotmail.com
+
 
 
 

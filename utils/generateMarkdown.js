@@ -18,27 +18,29 @@ ${data.description}
 
 ## Table of Contents
 - [Installation](#installation)
+- [UserName](#username)
+- [License](#license)
+- [Contributions](#contributions)
+- [Test](#test) 
+- [email](#email)
+
 ## Installation
 ${data.installation}
-- [UserName](#username)
+
 ## Github Username
 ${data.username}
-- [License](#license)
+
 ## License
 ${data.license}
-- [Contributions](#contributions)
+
 ## Contributions
 ${data.contributions}
-- [Test](#test) 
+
 ## Test 
 ${data.test}
-- [email](#email)
+
 ## Email 
 ${data.email}
-
-
-
-
 
 `;
 }
