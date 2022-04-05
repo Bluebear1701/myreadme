@@ -1,30 +1,37 @@
-# My Readme Generator 
+# MyReadme
+  
+  ![badge](https://img.shields.io/badge/License-MIT-yellow)
+  
 ## Description 
-fjalsjflasjeoejf
+Create a program to help developers create a readme.md simply and quickly.
 
 ## Table of Contents
 - [Installation](#installation)
-- [UserName](#username)
-- [License](#license)
+- [Usage](#usage)
 - [Contributions](#contributions)
 - [Test](#test) 
-- [email](#email)
+- [Question](#questions)
+
 
 ## Installation
-Go to Github and clone repo. Follow prompts
-## Github Username
-Bluebear1701 
-## License
-MIT
+clone repository, install npm and answer prompts
+
+
+## Usage
+undefined
+
 ## Contributions
-dldkf;lsndfpsdfn
+make a fork and a pull request
+
 ## Test 
-lseoflse
-## Email 
-monkey1701@hotmail.com
+npm install and answer prompts 
 
 
+## Questions 
+undefined
+If you have any questions you can [email](mailto:monkey1701@hotmail.com) me.
+</br>
+Checkout my Github at [Bluebear1701](https://github.com/Bluebear1701)
 
-
-
-
+## License
+This application is licensed by [MIT](https://opensource.org/licenses/MIT)

@@ -37,7 +37,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "What license do you want to use?",
-        choices: ["MIT", "Apache-2.0", "none"],
+        choices: ["MIT", "Apache-2.0", "ISC "],
     },
 
     // Contributions

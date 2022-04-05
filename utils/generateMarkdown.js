@@ -40,7 +40,7 @@ ${data.description}
 - [Usage](#usage)
 - [Contributions](#contributions)
 - [Test](#test) 
-- [Question](#questions)
+- [Questions](#questions)
 
 
 ## Installation
