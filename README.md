@@ -1,10 +1,9 @@
-# Generate Readme
+# Readme Generator 
   
-  ![badge](https://img.shields.io/badge/License-Apache-2.0-blue)
+  ![badge](https://img.shields.io/badge/License-MIT-blue)
   
 ## Description 
-a fg;dg;df
-
+To help developers make a markdown Readme in less time. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,30 +13,25 @@ a fg;dg;df
 - [Questions](#questions)
 
 
-
 ## Installation
-sldjf;asjefa;swjf
-
+clone from github repo and npm install the answer prompts run node index
 
 
 ## Usage
-undefined
-
-
+It will help Developers generate a Readme for their projects. 
 
 ## Contributions
-lasflasjdlf
-
+Make a Fork and a Pull request
 
 ## Test 
-lwsjldfjalsjf
+No test at this time 
 
 
 ## Questions 
 undefined
-If you have any questions you can [email](mailto:jalsdjflsjdf) me.
+If you have any questions you can [email](mailto:monkey1701@hotmail.com) me.
 </br>
-Checkout my Github at [ja;wsldjflsdjf](https://github.com/ja;wsldjflsdjf)
+Checkout my Github at [Bluebear1701](https://github.com/Bluebear1701)
 
 ## License
-This application is licensed by [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
+This application is licensed by [MIT](https://opensource.org/licenses/MIT)

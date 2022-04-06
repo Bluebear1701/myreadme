@@ -27,10 +27,10 @@ const questions = [
 
     // Usage 
     {
-        type: "input"
-        name: "usage"
+        type: "input",
+        name: "usage",
         message: "What can you use this project for?"
-    }    
+    },    
 
     // github username
     {

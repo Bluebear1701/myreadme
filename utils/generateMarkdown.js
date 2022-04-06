@@ -58,7 +58,7 @@ ${data.test}
 
 
 ## Questions 
-${data.questions}
+
 If you have any questions you can [email](mailto:${data.email}) me.
 </br>
 Checkout my Github at [${data.username}](https://github.com/${data.username})
