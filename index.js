@@ -18,12 +18,19 @@ const questions = [
         message: "Enter a description of your project",
     },
 
-    // Usage steps on how to install
+    // Steps on how to install
     {
         type: "input",
         name: "installation",
         message: "What are the steps required to install your project?",
     },
+
+    // Usage 
+    {
+        type: "input"
+        name: "usage"
+        message: "What can you use this project for?"
+    }    
 
     // github username
     {
